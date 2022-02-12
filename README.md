@@ -13,7 +13,7 @@ Feliz pelas pequenas (mas árduas) conquistas até aqui, e, focado nos desafios 
 
 Transicionando do meio administrativo "formal" para a realidade dos códigos. 
 
-### <strong>"Motivado pelas dificuldades; mas Dark Souls já é sacanagem"</strong>
+### <strong>*"Motivado pelas dificuldades; mas Dark Souls já é sacanagem"*</strong>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
