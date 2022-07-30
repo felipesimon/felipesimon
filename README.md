@@ -9,9 +9,8 @@
 ---
 Um jovem padawan na programação, cheio de expectativas com o mundo de possibilidades que venho conhecendo um pouco mais a cada dia.
 
-Feliz pelas pequenas (mas árduas) conquistas até aqui, e, focado nos desafios rumo às novas que virão!
-
-Transicionando do meio administrativo "formal" para a realidade dos códigos. 
+Feliz pelas conquistas até aqui, e, focado nos desafios rumo às novas que virão.
+ 
 
 ---
 #### <strong>*"Motivado pelas dificuldades; mas Dark Souls já é sacanagem"*</strong>
